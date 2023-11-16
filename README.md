@@ -1,3 +1,8 @@
+Building a simple counter, and typed value app using React, to learn its data binding and reactivity functionalities.
+
+![Screen Shot 2023-11-16 at 9 35 24 AM](https://github.com/mikel8/my-react-app/assets/15961999/41067be1-14b3-4bed-bc71-908e575fb5f0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
